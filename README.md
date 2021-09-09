@@ -1,2 +1,2 @@
-# eclipse-mechanic
+# Mechanic
 My set of Eclipse customizations
