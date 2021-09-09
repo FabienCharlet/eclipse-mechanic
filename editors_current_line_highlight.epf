@@ -1,0 +1,5 @@
+# @title Set less harmfull color for eyes in editors
+# @description This will set the highlight current row in grey. 
+# @task_type LASTMOD
+file_export_version=3.0
+/instance/org.eclipse.ui.editors/currentLineColor=72,72,72

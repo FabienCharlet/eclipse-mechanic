@@ -1,0 +1,6 @@
+# @title Tells Maven to download sources and javadoc
+# @description By default m2e doesn't download sources and javadoc of artifacts. Let's download them
+# @task_type LASTMOD
+file_export_version=3.0
+/instance/org.eclipse.m2e.core/eclipse.m2.downloadJavadoc=true
+/instance/org.eclipse.m2e.core/eclipse.m2.downloadSources=true

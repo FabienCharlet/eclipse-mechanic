@@ -1,0 +1,8 @@
+# @title Coverage without tests
+# @description Run Tests Coverage only on sources files and not test files
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Mon Jul 16 10:29:16 CEST 2018
+file_export_version=3.0
+/instance/org.eclipse.eclemma.ui/org.eclipse.eclemma.ui.default_scope_filter=src/main/java

@@ -1,0 +1,5 @@
+# @title Set UTF-8 as default encoding for workspace.
+# @description By default, Eclipse set encoding to Cp1252 on Windows. Let's change that horror to UTF-8.
+# @task_type LASTMOD
+file_export_version=3.0
+/instance/org.eclipse.core.resources/encoding=UTF-8

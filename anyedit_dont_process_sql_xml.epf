@@ -1,0 +1,5 @@
+# @title Don't let Anyedit postprocess Liquibase files
+# @description In Liquibase, if a changeset is changed, it will fail. By default, Anyedit process saved files. So let's exclude XML and SQL files.
+# @task_type LASTMOD
+file_export_version=3.0
+/instance/de.loskutov.anyedit.AnyEditTools/activeContentFilterList=*.makefile,makefile,*.Makefile,Makefile,Makefile.*,*.mk,MANIFEST.MF,*.sql,*.xml

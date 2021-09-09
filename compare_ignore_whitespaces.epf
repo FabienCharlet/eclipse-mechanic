@@ -1,0 +1,5 @@
+# @title Ignore white spaces in comparisons
+# @description By default, Eclipse considers white spaces in comparisons. Most of the time, we don't care about white spaces.
+# @task_type LASTMOD
+file_export_version=3.0
+/instance/org.eclipse.compare/org.eclipse.compare.IgnoreWhitespace=true

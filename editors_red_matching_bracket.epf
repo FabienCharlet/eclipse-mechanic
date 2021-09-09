@@ -1,0 +1,5 @@
+# @title Set Matching Bracket to a visible color
+# @description By default, the Matching Bracket is highlighted in gray, which is not visible. Let's set it to red.
+# @task_type LASTMOD
+file_export_version=3.0
+/instance/org.eclipse.jdt.ui/matchingBracketsColor=255,0,0

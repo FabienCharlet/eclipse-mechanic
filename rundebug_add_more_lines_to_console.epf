@@ -1,0 +1,6 @@
+# @title Set Limit console output to 800 000 chars
+# @description By dafault, Eclipse launches programs with 80 000 chars in console, which can be very short with big stack traces. Let's increase it.
+# @task_type LASTMOD
+file_export_version=3.0
+/instance/org.eclipse.debug.ui/Console.highWaterMark=808000
+/instance/org.eclipse.debug.ui/Console.lowWaterMark=800000

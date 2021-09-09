@@ -1,0 +1,6 @@
+# @title Adds more local history to files modifications.
+# @description By default, Eclipse remembers 50 entries or 7 days or 1 MB of local history. Let's add some more !
+# @task_type LASTMOD
+file_export_version=3.0
+/instance/org.eclipse.core.resources/description.filestatelongevity=2592000000
+/instance/org.eclipse.core.resources/description.maxfilestatesize=52428800

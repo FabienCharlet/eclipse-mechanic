@@ -1,0 +1,8 @@
+# @title Calendar debug
+# @description Set the Date toString to Calendar when debugging
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Fri Sep 12 15:31:22 CEST 2014
+file_export_version=3.0
+/instance/org.eclipse.jdt.debug.ui/org.eclipse.jdt.debug.ui.detail_formatters=java.util.Calendar,getTime();,1

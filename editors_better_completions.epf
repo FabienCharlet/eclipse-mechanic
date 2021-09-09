@@ -1,0 +1,12 @@
+# @title Improve completions in Java editor
+# @description Set completions options to optimal values
+# @task_type LASTMOD
+file_export_version=3.0
+/instance/org.eclipse.jdt.ui/content_assist_autoactivation_delay=0
+/instance/org.eclipse.jdt.ui/content_assist_category_order=org.eclipse.jdt.ui.spellingProposalCategory\:65545\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\:65540\u0000org.eclipse.jdt.ui.javaNoTypeProposalCategory\:65539\u0000org.eclipse.jdt.ui.textProposalCategory\:65541\u0000org.eclipse.jdt.ui.javaAllProposalCategory\:65542\u0000org.eclipse.jdt.ui.templateProposalCategory\:2\u0000org.eclipse.jdt.ui.swtProposalCategory\:3\u0000
+/instance/org.eclipse.jdt.ui/content_assist_disabled_computers=org.eclipse.jdt.ui.javaAllProposalCategory\u0000org.eclipse.recommenders.completion.rcp.templates.category\u0000org.eclipse.jdt.ui.javaNoTypeProposalCategory\u0000org.eclipse.recommenders.calls.rcp.templates.category\u0000org.eclipse.jdt.ui.textProposalCategory\u0000org.eclipse.recommenders.subwords.rcp.category\u0000org.eclipse.pde.api.tools.ui.apitools_proposal_category\u0000org.eclipse.recommenders.completion.rcp.chain.category\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\u0000org.eclipse.recommenders.chain.rcp.category\u0000org.eclipse.mylyn.java.ui.javaAllProposalCategory\u0000
+/instance/org.eclipse.jdt.ui/content_assist_favorite_static_members=
+/instance/org.eclipse.jdt.ui/content_assist_guess_method_arguments=true
+/instance/org.eclipse.jdt.ui/content_assist_insert_completion=false
+/instance/org.eclipse.jdt.ui/content_assist_proposals_background=255,255,255
+/instance/org.eclipse.jdt.ui/content_assist_proposals_foreground=0,0,0

@@ -1,0 +1,8 @@
+# @title Git Dont Ignore Derived
+# @description Don't manually derived folders to Git ignore
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Thu Apr 12 14:37:04 CEST 2018
+file_export_version=3.0
+/instance/org.eclipse.egit.core/core_autoIgnoreDerivedResources=false

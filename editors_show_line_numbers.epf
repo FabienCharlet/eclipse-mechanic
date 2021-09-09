@@ -1,0 +1,5 @@
+# @title View line numbers
+# @description Show the useful line numbers rulers which also show modifications on lines
+# @task_type LASTMOD
+file_export_version=3.0
+/instance/org.eclipse.ui.editors/lineNumberRuler=true

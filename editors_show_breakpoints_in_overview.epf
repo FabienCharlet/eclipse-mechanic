@@ -1,0 +1,6 @@
+# @title Set visible colors to the "Mark Occurrences" rectangles
+# @description The "Mark Occurrences" feature highlights entries in the right gutter, but is too faded to see with our color scheme.
+# @task_type LASTMOD
+file_export_version=3.0
+/instance/org.eclipse.ui.editors/breakpointIndicationInOverviewRuler=true
+/instance/org.eclipse.ui.editors/breakpointIndicationColor=0,255,255

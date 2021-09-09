@@ -1,0 +1,5 @@
+# @title Launch button always relaunch last launched application
+# @description By dafault, Eclipse tries to launch the current file. Let's launch the last application instead.
+# @task_type LASTMOD
+file_export_version=3.0
+/instance/org.eclipse.debug.ui/org.eclipse.debug.ui.UseContextualLaunch=false

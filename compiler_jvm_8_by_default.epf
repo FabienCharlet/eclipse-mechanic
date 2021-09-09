@@ -1,0 +1,7 @@
+# @title Projects in Java 8 by default
+# @description Force Eclipse to use Java 8 as default JDK compliance
+# @task_type LASTMOD
+file_export_version=3.0
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.codegen.targetPlatform=1.8
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.compliance=1.8
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.source=1.8
